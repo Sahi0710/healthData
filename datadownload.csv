@@ -1,18 +1,18 @@
 
 Ethnic group,General Health,Percentage of ethnic group by health 
-"Asian, Asian British or Asian Welsh: Bangladeshi",Bad,3.8
-"Asian, Asian British or Asian Welsh: Bangladeshi",Fair,12.1
-"Asian, Asian British or Asian Welsh: Bangladeshi",Good,35.4
-"Asian, Asian British or Asian Welsh: Bangladeshi",Very Bad,1.2
-"Asian, Asian British or Asian Welsh: Bangladeshi",Very Good,47.4
-"Asian, Asian British or Asian Welsh: Chinese",Bad,1.5
-"Asian, Asian British or Asian Welsh: Chinese",Fair,9.6
-"Asian, Asian British or Asian Welsh: Chinese",Good,38.5
-"Asian, Asian British or Asian Welsh: Chinese",Very Bad,0.4
-"Asian, Asian British or Asian Welsh: Chinese",Very Good,50.1
-"Asian, Asian British or Asian Welsh: Indian",Bad,2.5
-"Asian, Asian British or Asian Welsh: Indian",Fair,9.5
-"Asian, Asian British or Asian Welsh: Indian",Good,34.3
+Bangladeshi,Bad,3.8
+Bangladeshi,Fair,12.1
+Bangladeshi,Good,35.4
+Bangladeshi,Very Bad,1.2
+Bangladeshi,Very Good,47.4
+Chinese,Bad,1.5
+Chinese,Fair,9.6
+Chinese,Good,38.5
+Chinese,Very Bad,0.4
+Chinese,Very Good,50.1
+Indian,Bad,2.5
+Indian,Fair,9.5
+Indian,Good,34.3
 "Asian, Asian British or Asian Welsh: Indian",Very Bad,0.8
 "Asian, Asian British or Asian Welsh: Indian",Very Good,53
 "Asian, Asian British or Asian Welsh: Other Asian",Bad,2.3
