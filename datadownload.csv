@@ -7,17 +7,14 @@ Bangladeshi,Very Good,47.4
 Chinese,Bad,1.5
 Chinese,Fair,9.6
 Chinese,Good,38.5
-Chinese,Very Bad,0.4
 Chinese,Very Good,50.1
 Indian,Bad,2.5
 Indian,Fair,9.5
 Indian,Good,34.3
-Indian,Very Bad,0.8
 Indian,Very Good,53
 Other Asian,Bad,2.3
 Other Asian,Fair,9.3
 Other Asian,Good,33.9
-Other Asian,Very Bad,0.7
 Other Asian,Very Good,53.9
 Pakistani,Bad,3.5
 Pakistani,Fair,10.9
@@ -27,7 +24,6 @@ Pakistani,Very Good,51.2
 African,Bad,1.5
 African,Fair,6.4
 African,Good,26.6
-African,Very Bad,0.5
 African,Very Good,64.9
 Caribbean,Bad,4.7
 Caribbean,Fair,15.6
@@ -37,27 +33,22 @@ Caribbean,Very Good,42.2
 Other Black,Bad,2.5
 Other Black,Fair,8.6
 Other Black,Good,26.2
-Other Black,Very Bad,0.9
 Other Black,Very Good,61.8
 Other Mixed or Multiple ethnic groups,Bad,2.3
 Other Mixed or Multiple ethnic groups,Fair,7.6
 Other Mixed or Multiple ethnic groups,Good,27.5
-Other Mixed or Multiple ethnic groups,Very Bad,0.8
 Other Mixed or Multiple ethnic groups,Very Good,61.8
 White and Asian,Bad,1.7
 White and Asian,Fair,5.8
 White and Asian,Good,24.8
-White and Asian,Very Bad,0.5
 White and Asian,Very Good,67.3
 White and Black African,Bad,1.8
 White and Black African,Fair,6.7
 White and Black African,Good,25.5
-White and Black African,Very Bad,0.6
 White and Black African,Very Good,65.4
 White and Black Caribbean,Bad,2.6
 White and Black Caribbean,Fair,8.4
 White and Black Caribbean,Good,28.3
-White and Black Caribbean,Very Bad,0.8
 White and Black Caribbean,Very Good,59.9
 "White: English, Welsh, Scottish, Northern Irish or British",Bad,4.5
 "White: English, Welsh, Scottish, Northern Irish or British",Fair,14
@@ -77,12 +68,10 @@ Irish,Very Good,41.6
 Other White,Bad,1.8
 Other White,Fair,7
 Other White,Good,33.5
-Other White,Very Bad,0.5
 Other White,Very Good,57.2
 Roma,Bad,2.4
 Roma,Fair,5.9
 Roma,Good,30.5
-Roma,Very Bad,0.9
 Roma,Very Good,60.3
 Arab,Bad,3.7
 Arab,Fair,9.1
